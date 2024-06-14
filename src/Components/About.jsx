@@ -16,27 +16,25 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/IMG_6764.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "the object around the United Nations";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Master's degree student at Chitose Institute of Science and Tchnology";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Internet of Things",
+  "Precision Agriculture",
+  "Deep Learning",
+  "Digital Twin"
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am studying deep learning and IoT technology and searching for how to utilize these technologies for Visualizing data of anything. An Engineering student at Chitose Institute of Science and Technology. My former research theme was Precision Agriculture, and now Digital Twin.";
 
 const About = () => {
   return (
