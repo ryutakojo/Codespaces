@@ -32,8 +32,7 @@ const imageAltText = "a person is in background of Microsoft logo object";
 const projectList = [
   {
     title: "Global Azure Sapporo 2024",
-    description:
-      "Hosted Global Azure Sapporo 2024 with Mr.Yasuaki Matsuda and Azure professionals",
+    description: "Hosted Global Azure Sapporo 2024 with Mr.Yasuaki Matsuda and Azure professionals",
     url: "https://globalazure.net/communities/2024/SapporoAzureMok",
   },
 ];

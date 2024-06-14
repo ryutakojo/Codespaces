@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -23,19 +23,13 @@ const imageAltText = "the object around the United Nations";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a Master's degree student at Chitose Institute of Science and Tchnology";
+const description = "I'm a Master's degree student at Chitose Institute of Science and Tchnology";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Internet of Things",
-  "Precision Agriculture",
-  "Deep Learning",
-  "Digital Twin"
-];
+const skillsList = ["Internet of Things", "Precision Agriculture", "Deep Learning", "Digital Twin"];
 
 /**
  * Use this to give more information about what you are passionate about,
